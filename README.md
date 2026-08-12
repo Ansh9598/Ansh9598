@@ -106,42 +106,47 @@ I’m continuously strengthening my fundamentals and turning what I learn into p
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh9598&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ansh9598&theme=dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh9598&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ansh9598&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh9598&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ---
 
-## 🎯 My Approach
+## 🔥 GitHub Streak
 
-```text
-Understand → Practice → Build → Analyze → Improve → Repeat
-```
-
-I believe consistency beats shortcuts.
-
-**Strong fundamentals + practical projects + continuous learning = long-term growth.** 🚀
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=Ansh9598&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ansh9598&icon=0&color=0" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Ansh9598&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<p align="center">
+  <b>✨ Thanks for visiting my profile! ✨</b>
+</p>
 
 <p align="center">
   <i>Keep learning. Keep building. Keep growing. 🚀</i>
 </p>
-
