@@ -106,27 +106,25 @@ I’m continuously strengthening my fundamentals and turning what I learn into p
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ansh9598">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Ansh9598&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      alt="Ansh9598 GitHub Stats"
-      height="180"
-    />
-  </a>
 
-  <a href="https://github.com/Ansh9598">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh9598&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      alt="Ansh9598 Top Languages"
-      height="180"
-    />
-  </a>
+<a href="https://github.com/Ansh9598"> <img src="https://img.shields.io/github/followers/Ansh9598?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/> </a>
+
+<a href="https://github.com/Ansh9598?tab=repositories"> <img src="https://img.shields.io/github/stars/Ansh9598?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars"/> </a>
+
+<a href="https://github.com/Ansh9598"> <img src="https://img.shields.io/github/created-at/Ansh9598?style=for-the-badge&logo=github&label=Joined" alt="GitHub Joined"/> </a>
+
 </p>
 
----
+<p align="center">
+
+<a href="https://github.com/Ansh9598?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="Repositories"/> </a>
+
+<a href="https://github.com/Ansh9598"> <img src="https://img.shields.io/badge/Profile-Ansh9598-0e75b6?style=for-the-badge&logo=github" alt="GitHub Profile"/> </a>
+
+</p>
 
 ## 🔥 GitHub Streak
 
