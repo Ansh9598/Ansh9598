@@ -109,14 +109,21 @@ I’m continuously strengthening my fundamentals and turning what I learn into p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ansh9598&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh9598&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+  <a href="https://github.com/Ansh9598">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Ansh9598&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      alt="Ansh9598 GitHub Stats"
+      height="180"
+    />
+  </a>
+
+  <a href="https://github.com/Ansh9598">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh9598&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      alt="Ansh9598 Top Languages"
+      height="180"
+    />
+  </a>
 </p>
 
 ---
@@ -124,10 +131,12 @@ I’m continuously strengthening my fundamentals and turning what I learn into p
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Ansh9598&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/Ansh9598">
+    <img 
+      src="https://streak-stats.demolab.com/?user=Ansh9598&theme=tokyonight&hide_border=true&border_radius=10"
+      alt="Ansh9598 GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
@@ -135,18 +144,19 @@ I’m continuously strengthening my fundamentals and turning what I learn into p
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Ansh9598&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
-    alt="Profile Views"
-  />
+  <a href="https://github.com/Ansh9598">
+    <img 
+      src="https://komarev.com/ghpvc/?username=Ansh9598&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile! ✨</b>
+  <a href="https://github.com/Ansh9598">
+    <img src="https://img.shields.io/badge/GitHub-Ansh9598-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
-</p>
