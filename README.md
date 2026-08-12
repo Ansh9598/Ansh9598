@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Ansh Uttam
+👋 Hi, I'm Ansh Uttam
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;C%2B%2B+%7C+Python+%7C+Machine+Learning;Problem+Solver+%F0%9F%A7%A0;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%9A%80" alt="Typing Animation" /> </p>
 
 ### 💫 About Me
 
